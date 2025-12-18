@@ -18,7 +18,7 @@ I enjoy building end-to-end data and ML systems - from modeling and evaluation t
 
 ## 🚀 Featured Projects
 
-### **FinSights — RAG-based Financial Document Intelligence**
+### **FinSights: RAG-based Financial Document Intelligence**
 - Built an end-to-end RAG system over **15 years of SEC 10-K filings** covering **21 S&P 500 companies**
 - Designed a **hybrid retrieval architecture** combining structured KPI pipelines with vector-based search to minimize numerical hallucinations
 - Deployed a production-grade system using **AWS (S3, ECS, Bedrock), Docker, CI/CD**, achieving **<$0.02 per query**
